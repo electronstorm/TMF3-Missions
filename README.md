@@ -4,7 +4,12 @@ This repository contains missions based on TMF. These missions are designed to w
 
 # Usage
 
-Every folder in this repository follow the naming convention [mission_name].[island]. You can simply clone the repository and open it up in the Arma 3. You will need to have Team One Tactical's modset loaded. 
+Every folder in this repository follow the naming convention [type]_[mission_name].[island]. You can simply clone the repository and open it up in the Arma 3. You will need to have Team One Tactical's modset loaded. 
+
+# Available mission types
+- co - COOP
+- cz - COOP with Zeus
+- adv - Adversarial
 
 # Credits
 - TMF Team - https://github.com/TMF3/TMF
