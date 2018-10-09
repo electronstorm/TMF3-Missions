@@ -2,9 +2,11 @@
 
 The first part of a multi-mission campaign. US Marines assault a strategic island and capture key positions.
 
-# Slots
-Minimum: 28
+# Overview
+- Type: COOP Zeus
+- Island: Malden
+- Minimum Slots: 28
+- Maximum Slots: 39
 
-Maximum: 39
 # Notes
 Zeus required. It is recommended to slot all air assets due to AA.
