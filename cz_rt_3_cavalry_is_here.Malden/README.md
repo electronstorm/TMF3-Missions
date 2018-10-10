@@ -1,4 +1,4 @@
-# Rising Tide: Uphill Struggle (2)
+# Rising Tide: Cavalry's Here (3)
 
 Assault on the main airfield with infantry, tanks, IFVs and air.
 
