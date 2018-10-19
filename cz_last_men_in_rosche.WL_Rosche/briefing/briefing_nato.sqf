@@ -14,16 +14,16 @@
 
 private _situation = ["diary", ["Situation","
 <br/>
-*** Insert general information per the above description.***
+The Soviets have launched a large-scale offensive on Rosche. We have only barely managed to hold them short off the airport and regroup. Now it is time to push them back and take control of key strategic positions.
 <br/><br/>
 <font size='18'>ENEMY FORCES</font>
 <br/>
-*** Provide information on enemy forces.***
+Tanks and mechanized infantry. We expect some of the defenders to be dug in already.
 <br/><br/>
 
 <font size='18'>FRIENDLY FORCES</font>
 <br/>
-*** Detail friendly forces that are external to the playable force. ***
+We are all that is left in the area.
 
 "]];
 
@@ -35,7 +35,7 @@ private _situation = ["diary", ["Situation","
 
 private _mission = ["diary", ["Mission","
 <br/>
-*** Provide a short summary of the mission objectives here. ***
+Capture and hold the two main MSRs (B483 and B71) in the AO. 
 "]];
 
 /* ===============================================
@@ -47,22 +47,17 @@ private _execution = ["diary", ["Execution","
 <br/>
 <font size='18'>COMMANDER'S INTENT</font>
 <br/>
-*** Insert very short summary of plan here. ***
+We will need to break out from the airport and the only way is across the bridges. The enemy knows this as well. Expect the bridges to be well defended.
 <br/><br/>
 
 <font size='18'>MOVEMENT PLAN</font>
 <br/>
-*** Insert movement instructions here. ***
-<br/><br/>
-
-<font size='18'>FIRE SUPPORT PLAN</font>
-<br/>
-*** Provide details on any available fire support. ***
+All of our forces are mounted in vehicles. 
 <br/><br/>
 
 <font size='18'>SPECIAL TASKS</font>
 <br/>
-*** Insert instructions for specific units here. ***
+Logistics is available for repairs and resupply.
 "]];
 
 /* ===============================================
@@ -74,7 +69,7 @@ private _execution = ["diary", ["Execution","
 
 private _administration = ["diary", ["Administration","
 <br/>
-*** Insert information on administration and logistics here. ***
+Crews of disabled vehicles can return to base for a new vehicle.
 "]];
 
 player createDiaryRecord _administration;
