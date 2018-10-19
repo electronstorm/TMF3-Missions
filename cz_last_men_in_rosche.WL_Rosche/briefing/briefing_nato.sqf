@@ -35,7 +35,9 @@ We are all that is left in the area.
 
 private _mission = ["diary", ["Mission","
 <br/>
-Capture and hold the two main MSRs (B483 and B71) in the AO. 
+Capture and hold the two key towns along the main MSRs: Schlieckau and Ratzlingen.
+<br/>
+Note: You do not need to clear out the towns building by building. Destroying all the armor inside will be enough.
 "]];
 
 /* ===============================================
