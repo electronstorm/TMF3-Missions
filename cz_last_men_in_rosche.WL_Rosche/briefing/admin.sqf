@@ -1,5 +1,5 @@
 
-private _briefing = "ADMIN BRIEFING<br/><br/>";
+private _briefing = "ADMIN BRIEFING<br/><br/> Endings are handled by Zeus.";
 
 
 /* In this briefing page you should provide the admin with any information that will aid them doing their job.

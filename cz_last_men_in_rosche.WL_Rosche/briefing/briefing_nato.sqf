@@ -18,7 +18,7 @@ The Soviets have launched a large-scale offensive on Rosche. We have only barely
 <br/><br/>
 <font size='18'>ENEMY FORCES</font>
 <br/>
-Tanks and mechanized infantry. We expect some of the defenders to be dug in already.
+Soviet tanks and mechanized infantry. We expect some of the defenders to be dug in already.
 <br/><br/>
 
 <font size='18'>FRIENDLY FORCES</font>
