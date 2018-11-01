@@ -9,4 +9,4 @@ Slightly difficult helicopter race on Pulau.
 - Maximum Slots: 36
 
 # Notes
-Players do not want to fly can take Co-Pilot slots.
+Players that do not want to fly can take Co-Pilot slots.
