@@ -10,6 +10,7 @@ Every folder in this repository follow the naming convention [type]_[mission_nam
 - co - COOP
 - cz - COOP with Zeus
 - adv - Adversarial
+- ap - Afterparty
 
 # Credits
 - TMF Team - https://github.com/TMF3/TMF
