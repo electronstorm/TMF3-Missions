@@ -1,4 +1,4 @@
-# Rising Tide: Stepping Stone (1)
+# Last Men in Rosche
 
 US armored forces retake strategic positions in Rosche from Soviet aggressors.
 
