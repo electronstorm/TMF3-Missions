@@ -14,16 +14,18 @@
 
 private _situation = ["diary", ["Situation","
 <br/>
-*** Insert general information per the above description.***
+Lingor is under the control of a local dictator called Ortsac. Our goal is to liberate the island from his reign of terror. Oh and we would very much like to have a better deal on the island's oil resources. 
+
+A military base with most his elite troops is located in the north of the island. Eliminating that base will severely limit their ability to respond to further assaults.
 <br/><br/>
 <font size='18'>ENEMY FORCES</font>
 <br/>
-*** Provide information on enemy forces.***
+Mostly infantry with a few light vehicles. We expect reinforcements to arrive once we begin with our assault. Enemy AAA and aircraft have been spotted in the area.
 <br/><br/>
 
 <font size='18'>FRIENDLY FORCES</font>
 <br/>
-*** Detail friendly forces that are external to the playable force. ***
+Infantry with air support from our carrier.
 
 "]];
 
@@ -35,7 +37,9 @@ private _situation = ["diary", ["Situation","
 
 private _mission = ["diary", ["Mission","
 <br/>
-*** Provide a short summary of the mission objectives here. ***
+Capture military base.
+<br/>
+Defend against counterattacks. 
 "]];
 
 /* ===============================================
@@ -47,22 +51,24 @@ private _execution = ["diary", ["Execution","
 <br/>
 <font size='18'>COMMANDER'S INTENT</font>
 <br/>
-*** Insert very short summary of plan here. ***
+The defenses in the military base are relatively strong. An assault from the beach seems like the best option. We can use Castle to suppress with coastline with unguided rockets and minigun.
 <br/><br/>
 
 <font size='18'>MOVEMENT PLAN</font>
 <br/>
-*** Insert movement instructions here. ***
+Infantry is mounted in RHIBs with M2s. 
 <br/><br/>
 
 <font size='18'>FIRE SUPPORT PLAN</font>
 <br/>
-*** Provide details on any available fire support. ***
+We can request smoke shells from higher command for the initial assault.<br/>
+AH-1Z Castle<br/>
+F/A1-181 Sword
 <br/><br/>
 
 <font size='18'>SPECIAL TASKS</font>
 <br/>
-*** Insert instructions for specific units here. ***
+Sword's primary responsiblity is air superiority and destroying AAA to allow Castle to work effectively.
 "]];
 
 /* ===============================================
@@ -74,7 +80,7 @@ private _execution = ["diary", ["Execution","
 
 private _administration = ["diary", ["Administration","
 <br/>
-*** Insert information on administration and logistics here. ***
+Spare aircraft and rearm are available on the carrier. Pilots can choose their loadout using pylons. Mixed loadouts are set as default. 
 "]];
 
 player createDiaryRecord _administration;

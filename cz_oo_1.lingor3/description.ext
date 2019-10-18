@@ -32,15 +32,6 @@ class CfgDebriefing
 		// picture = "";
 		// pictureColor[] = {0.0,0.3,0.6,1};
 	};
-	class CustomEnding1
-	{
-		title = "Custom Ending #1";
-		subtitle = "";
-		description = "*** Explanation for the debriefing page ***";
-		// pictureBackground = "";
-		// picture = "";
-		// pictureColor[] = {0.0,0.3,0.6,1};
-	};
 
 };
 
