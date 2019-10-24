@@ -14,13 +14,13 @@
 
 private _situation = ["diary", ["Situation","
 <br/>
-Lingor is under the control of a local dictator called Ortsac. Our goal is to liberate the island from his reign of terror. Oh and we would very much like to have a better deal on the island's oil resources. 
+Lingor is under the control of a local dictator called Ortsac. Our goal is to liberate the island from his reign of terror. Oh and we would very much like to have a better deal on the island's oil reserves.
 
-A military base with most his elite troops is located in the north of the island. Eliminating that base will severely limit their ability to respond to further assaults.
+During our <i>successful</i> raid on a military compound we have gathered intel on the location of Col. Aziz, Ortsac's military commander. He is easily identified by his golden revolver. Eliminating him will severely limit their ability to strike back and likely reveal important information to end this campaign.
 <br/><br/>
 <font size='18'>ENEMY FORCES</font>
 <br/>
-Mostly infantry with a few light vehicles. We expect reinforcements to arrive once we begin with our assault. Enemy AAA and aircraft have been spotted in the area.
+Mostly infantry with a couple of light vehicles. They are not expecting an attack right now, but mechanized infantry has been spotted nearby. The enemy air force is active in the area and has even managed to shoot down one of our jets during the last assault. Additionally, heavy AAA is expected.
 <br/><br/>
 
 <font size='18'>FRIENDLY FORCES</font>
@@ -37,9 +37,9 @@ Infantry with air support from our carrier.
 
 private _mission = ["diary", ["Mission","
 <br/>
-Capture military base.
+Find and eliminate HVT
 <br/>
-Defend against counterattacks. 
+Optional: Exfiltrate
 "]];
 
 /* ===============================================
@@ -51,25 +51,20 @@ private _execution = ["diary", ["Execution","
 <br/>
 <font size='18'>COMMANDER'S INTENT</font>
 <br/>
-The defenses in the military base are relatively strong. An assault from the beach seems like the best option. We can use Castle to suppress with coastline with unguided rockets and minigun.
+We have solid intel on the location of enemy air defenses. While the AAA is relatively strong, it does have a number of weakpoints which we can utilize by terrain masking. Flying straight in will not work. We do not know the exact location of the target. However, we have gathered likely estimates of the possbile location (question marks).
 <br/><br/>
 
 <font size='18'>MOVEMENT PLAN</font>
 <br/>
-Infantry is mounted in RHIBs with M2s. 
+2x UH-60
 <br/><br/>
 
 <font size='18'>FIRE SUPPORT PLAN</font>
 <br/>
-We can request smoke shells from higher command for the initial assault.<br/>
-AH-1Z Castle<br/>
-F/A1-181 Sword
+2x F/A-181
 <br/><br/>
-
-<font size='18'>SPECIAL TASKS</font>
-<br/>
-Sword's primary responsiblity is air superiority and destroying AAA to allow Castle to work effectively.
 "]];
+
 
 /* ===============================================
 	ADMINISTRATION
@@ -80,7 +75,7 @@ Sword's primary responsiblity is air superiority and destroying AAA to allow Cas
 
 private _administration = ["diary", ["Administration","
 <br/>
-Spare aircraft and rearm are available on the carrier. Pilots can choose their loadout using pylons. Mixed loadouts are set as default. 
+Spare aircraft and rearm options are available on the carrier. Pilots can choose their loadout for the jets (ACE interact near an ammotruck). Mixed loadouts are set as default. 
 "]];
 
 player createDiaryRecord _administration;
