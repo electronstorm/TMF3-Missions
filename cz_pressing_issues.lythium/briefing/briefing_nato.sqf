@@ -14,16 +14,16 @@
 
 private _situation = ["diary", ["Situation","
 <br/>
-*** Insert general information per the above description.***
+Local insurgents have taken three journalists hostage. We expect them to record and release a video featuring them soon. We need to reach the hostages before that happens. We have a few possible locations.
 <br/><br/>
 <font size='18'>ENEMY FORCES</font>
 <br/>
-*** Provide information on enemy forces.***
+The insurgents are expected to have some light vehicles and old soviet equipment.
 <br/><br/>
 
 <font size='18'>FRIENDLY FORCES</font>
 <br/>
-*** Detail friendly forces that are external to the playable force. ***
+Platoon of infantry with air support.
 
 "]];
 
@@ -35,7 +35,7 @@ private _situation = ["diary", ["Situation","
 
 private _mission = ["diary", ["Mission","
 <br/>
-*** Provide a short summary of the mission objectives here. ***
+Search the area provided by intelligence and return any hostages you find to the base of operations to be treated by medical staff.
 "]];
 
 /* ===============================================
@@ -47,22 +47,22 @@ private _execution = ["diary", ["Execution","
 <br/>
 <font size='18'>COMMANDER'S INTENT</font>
 <br/>
-*** Insert very short summary of plan here. ***
+Insurgent activity has been very high in this area. Focusing forces on only one or two objectives at a time is recommended.
 <br/><br/>
 
 <font size='18'>MOVEMENT PLAN</font>
 <br/>
-*** Insert movement instructions here. ***
+Via helicopter. Pilots can choose between MH-6M and UH-60. Switching during the mission is possible.
 <br/><br/>
 
 <font size='18'>FIRE SUPPORT PLAN</font>
 <br/>
-*** Provide details on any available fire support. ***
+AH-6M
 <br/><br/>
 
 <font size='18'>SPECIAL TASKS</font>
 <br/>
-*** Insert instructions for specific units here. ***
+Aircraft can slingload limited resupply.
 "]];
 
 /* ===============================================
@@ -74,7 +74,7 @@ private _execution = ["diary", ["Execution","
 
 private _administration = ["diary", ["Administration","
 <br/>
-*** Insert information on administration and logistics here. ***
+Different choices of helicopters available at base. Slingloadable resupply is available.
 "]];
 
 player createDiaryRecord _administration;
