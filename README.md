@@ -11,6 +11,7 @@ Every folder in this repository follow the naming convention [type]_[mission_nam
 - cz - COOP with Zeus
 - adv - Adversarial
 - ap - Afterparty
+- template - Template
 
 # Credits
 - TMF Team - https://github.com/TMF3/TMF
